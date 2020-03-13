@@ -24,4 +24,4 @@ Use the Arduino IDE to upload the pull script when you want to retrieve the data
 ```
 $ python3 pull.py
 ```
-The will ask a few questions before retrieving the files.
+The program will ask a few questions before retrieving the files.
