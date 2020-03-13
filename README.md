@@ -3,6 +3,7 @@ Code for Direct Output Head project (Northwestern's Fall-Winter 2019-20 DSGN 384
 
 ## Required softwares
 Arduino IDE
+
 Latest version of Python 3
 
 ## Arduino setup
@@ -15,6 +16,7 @@ $ python3 -m pip install -r requirements.txt //Installs required python packages
 
 ## Collecting data
 Use the Arduino IDE to upload the collect script when you want to collect data. The default length of a run is 15 seconds (shown at line 62 in collect.ino)
+
 Each time the device is powered on, data collection begins. Please allow a few extra seconds after the 15 second run to turn off the device.
 
 ## Retrieving data
